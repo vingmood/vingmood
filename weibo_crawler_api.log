@@ -1,0 +1,37 @@
+2025-10-03 02:44:54,339 - INFO - 开始抓取微博热搜数据...
+2025-10-03 02:44:57,176 - INFO - API请求状态码: 200
+2025-10-03 02:44:57,177 - INFO - 响应内容长度: 14746
+2025-10-03 02:44:57,177 - INFO - API响应数据类型: <class 'dict'>
+2025-10-03 02:44:57,177 - INFO - 成功抓取 0 条热搜数据
+2025-10-03 02:44:57,177 - INFO - 主API方法失败，尝试备用方法...
+2025-10-03 02:44:57,177 - INFO - 尝试备用API接口...
+2025-10-03 02:44:57,177 - INFO - 尝试API: https://weibo.com/ajax/statuses/hot_band
+2025-10-03 02:44:57,481 - INFO - API https://weibo.com/ajax/statuses/hot_band 响应成功
+2025-10-03 02:44:57,481 - INFO - 尝试API: https://weibo.com/ajax/side/hotSearch
+2025-10-03 02:44:57,758 - INFO - API https://weibo.com/ajax/side/hotSearch 响应成功
+2025-10-03 02:44:57,759 - INFO - 尝试API: https://m.weibo.cn/api/container/getIndex?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Drealtimehot
+2025-10-03 02:45:00,131 - WARNING - API https://m.weibo.cn/api/container/getIndex?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Drealtimehot 失败: Expecting value: line 1 column 1 (char 0)
+2025-10-03 02:45:11,366 - INFO - 开始抓取微博热搜数据...
+2025-10-03 02:45:14,272 - INFO - API请求状态码: 200
+2025-10-03 02:45:14,273 - INFO - 响应内容长度: 16143
+2025-10-03 02:45:14,275 - INFO - API响应数据类型: <class 'dict'>
+2025-10-03 02:45:14,277 - INFO - API响应已保存到 debug_api_response.json
+2025-10-03 02:45:14,277 - INFO - 成功抓取 0 条热搜数据
+2025-10-03 02:45:14,277 - INFO - 主API方法失败，尝试备用方法...
+2025-10-03 02:45:14,277 - INFO - 尝试备用API接口...
+2025-10-03 02:45:14,277 - INFO - 尝试API: https://weibo.com/ajax/statuses/hot_band
+2025-10-03 02:45:14,650 - INFO - API https://weibo.com/ajax/statuses/hot_band 响应成功
+2025-10-03 02:45:14,651 - INFO - 尝试API: https://weibo.com/ajax/side/hotSearch
+2025-10-03 02:45:14,948 - INFO - API https://weibo.com/ajax/side/hotSearch 响应成功
+2025-10-03 02:45:14,948 - INFO - 尝试API: https://m.weibo.cn/api/container/getIndex?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Drealtimehot
+2025-10-03 02:45:17,115 - WARNING - API https://m.weibo.cn/api/container/getIndex?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Drealtimehot 失败: Expecting value: line 1 column 1 (char 0)
+2025-10-03 02:45:33,369 - INFO - 开始抓取微博热搜数据...
+2025-10-03 02:45:35,498 - INFO - API请求状态码: 200
+2025-10-03 02:45:35,498 - INFO - 响应内容长度: 14952
+2025-10-03 02:45:35,499 - INFO - API响应数据类型: <class 'dict'>
+2025-10-03 02:45:35,501 - INFO - API响应已保存到 debug_api_response.json
+2025-10-03 02:45:35,501 - INFO - 找到 50 条实时热搜数据
+2025-10-03 02:45:35,501 - INFO - 找到 1 条政府热搜数据
+2025-10-03 02:45:35,501 - INFO - 成功抓取 51 条热搜数据
+2025-10-03 02:45:35,503 - INFO - 数据已保存到: data/weibo_hot_search_api_20251003_024535.json
+2025-10-03 02:45:35,511 - INFO - 数据已保存到: data/weibo_hot_search_api_20251003_024535.csv
