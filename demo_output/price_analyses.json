@@ -1,0 +1,48 @@
+[
+  {
+    "topic": "人工智能ChatGPT引发热议",
+    "timestamp": "2024-01-15 10:00:00",
+    "market": "科技",
+    "analysis_period": "2023-12-15 到 2024-02-15",
+    "stock_analysis": {
+      "00700.HK": {
+        "stock_name": "腾讯",
+        "symbol": "00700.HK",
+        "before_avg_price": 320.06,
+        "after_avg_price": 339.05,
+        "price_change_pct": 5.93,
+        "before_volatility": 1.84,
+        "after_volatility": 2.16,
+        "max_price_before": 335.19,
+        "min_price_before": 310.43,
+        "max_price_after": 354.82,
+        "min_price_after": 324.32,
+        "data_points_before": 32,
+        "data_points_after": 31
+      }
+    }
+  },
+  {
+    "topic": "新能源汽车销量创新高",
+    "timestamp": "2024-01-15 10:00:00",
+    "market": "汽车",
+    "analysis_period": "2023-12-15 到 2024-02-15",
+    "stock_analysis": {
+      "00700.HK": {
+        "stock_name": "腾讯",
+        "symbol": "00700.HK",
+        "before_avg_price": 320.06,
+        "after_avg_price": 339.05,
+        "price_change_pct": 5.93,
+        "before_volatility": 1.84,
+        "after_volatility": 2.16,
+        "max_price_before": 335.19,
+        "min_price_before": 310.43,
+        "max_price_after": 354.82,
+        "min_price_after": 324.32,
+        "data_points_before": 32,
+        "data_points_after": 31
+      }
+    }
+  }
+]
