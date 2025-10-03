@@ -1,0 +1,15 @@
+{
+  "analysis_time": "2025-10-03 03:15:43",
+  "total_topics_analyzed": 5,
+  "impactful_topics": 0,
+  "impact_rate": 0.0,
+  "market_distribution": {
+    "科技": 1,
+    "汽车": 1,
+    "房地产": 1,
+    "金融": 1,
+    "医疗": 1
+  },
+  "price_analyses_count": 2,
+  "analysis_period": "30天前 到 30天后"
+}

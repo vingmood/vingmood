@@ -1,0 +1,37 @@
+[
+  {
+    "rank": 1,
+    "title": "人工智能ChatGPT引发热议",
+    "link": "https://s.weibo.com/weibo?q=ChatGPT",
+    "hot_value": "1234567",
+    "timestamp": "2024-01-15 10:00:00"
+  },
+  {
+    "rank": 2,
+    "title": "新能源汽车销量创新高",
+    "link": "https://s.weibo.com/weibo?q=新能源汽车",
+    "hot_value": "987654",
+    "timestamp": "2024-01-15 10:00:00"
+  },
+  {
+    "rank": 3,
+    "title": "房地产政策调整",
+    "link": "https://s.weibo.com/weibo?q=房地产政策",
+    "hot_value": "876543",
+    "timestamp": "2024-01-15 10:00:00"
+  },
+  {
+    "rank": 4,
+    "title": "银行降息政策出台",
+    "link": "https://s.weibo.com/weibo?q=银行降息",
+    "hot_value": "765432",
+    "timestamp": "2024-01-15 10:00:00"
+  },
+  {
+    "rank": 5,
+    "title": "医疗设备采购新规",
+    "link": "https://s.weibo.com/weibo?q=医疗设备",
+    "hot_value": "654321",
+    "timestamp": "2024-01-15 10:00:00"
+  }
+]
